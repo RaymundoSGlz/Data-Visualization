@@ -8,9 +8,15 @@ Los notebooks se encuentran divididos en las siguientes secciones:
 * Section 1: Introduction to Data Visualization and Distributions
     * Introducción a la visualización de datos
     * Introducción a las distribuciones
+    * Cuantiles, percentiles y boxplots
+    * Análisis exploratorio de datos
 
 * Section 2: Introduction to ggplot2
+    * Conceptos básicos de ggplot2
+    * Personalización de gráficos
 
 * Section 3: Gapminder
+    * Introducción a `gapminder`
+    * Usando el dataset `gapminder`
 
 * Section 4: Data Visualization Principles
