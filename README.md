@@ -26,6 +26,8 @@ Los notebooks se encuentran divididos en las siguientes secciones:
     * Principios de visualización de datos parte 2
     * Principios de visualización de datos parte 3
 
+> *Titanic survival* es un notebook que contiene la solución a los ejercicios propuestos en la sección 4. 
+
 Los siguientes notebooks Contienen los códigos utilizados para resolver las evaluaciones finales.
 * Properties of Stars
 * Climate change
